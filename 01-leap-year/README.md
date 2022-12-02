@@ -45,4 +45,7 @@
   }
   ```
 
-  * if (name.equals("blue")) {
+  * 
+    ```
+    if (name.equals("blue")) {
+    ```
