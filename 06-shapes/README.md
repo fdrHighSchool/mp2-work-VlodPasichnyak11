@@ -7,8 +7,14 @@
 000111222333444555666777888999
 000111222333444555666777888999
 ```
-  * **YOUR WRITING HERE**
-
+  *    
+       ```
+       for (int i = 0; i <= 9; i++){
+        for(int j = 0; j < 3; j++){
+         System.out.print(i);
+        }
+       }
+       ```
 
 2. Write a plan for the following output:
 ```
@@ -18,4 +24,11 @@
 999998888877777666665555544444333332222211111
 999998888877777666665555544444333332222211111
 ```
-  * **YOUR WRITING HERE**
+  *  
+     ```
+     for (int i = 9; i >= 1; i--){
+      for(int j = 0; j < 5; j++){
+       System.out.print(i);
+      }
+     }
+     ```

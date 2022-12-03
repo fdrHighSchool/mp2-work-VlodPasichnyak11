@@ -45,4 +45,7 @@
   }
   ```
 
-  * **YOUR WRITING HERE**
+  * 
+    ```
+    if (name.equals("blue")) {
+    ```
