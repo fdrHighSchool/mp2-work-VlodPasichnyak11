@@ -21,4 +21,4 @@
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
-  * I would utilize a else statement at the end of the program to assign any value which is less than 65, to be an automatic F. 
+  * By an Else Statement at the End of the Program. If (g < 65) --> Automatic F.
