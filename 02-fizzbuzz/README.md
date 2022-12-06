@@ -21,4 +21,4 @@
 | F  | F  |     F    |       T      |  T |  T |    T     |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * **YOUR WRITING HERE**
+  * DeMorgan's Law states the junction of 2 sets is correspondent to the convergence of such sets. This can be seen as !(P \|\| Q) provides the exact same output as !P && !Q.
