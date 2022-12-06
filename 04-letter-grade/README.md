@@ -17,8 +17,13 @@
       ```
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
-  * **YOUR WRITING HERE**
-
+  * 
+    
+    ```
+    if (g == 100){
+      grade = "A+";
+    }
+    ```
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
   * By an Else Statement at the End of the Program. (g < 65) --> Automatic F.
