@@ -7,4 +7,5 @@ Think of the following method header:
 `public static boolean isPrime(int num)`
 
   * List Numbers from 1 to num. (For Loop)
-  * if 
+  * if num is divisible by 2 to num - 1; return TRUE, else return FALSE;
+  * Immediately Stop the Loop if a Factor is Found. 
