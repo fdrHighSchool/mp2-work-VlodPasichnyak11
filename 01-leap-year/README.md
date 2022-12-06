@@ -9,7 +9,12 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * **YOUR WRITING HERE**
+  *  
+     ```
+     if (year % 4 == 0 && year % 100 != 0) {
+           // DO STUFF
+     } // end if statement
+     ```
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
@@ -23,7 +28,7 @@
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * if (x = 10) {
 
   * if (x equals 42) {
 
@@ -46,6 +51,6 @@
   ```
 
   * 
-    ```
-    if (name.equals("blue")) {
-    ```
+     ```
+     if (name.equals("blue")) {
+     ```
